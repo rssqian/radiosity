@@ -1,7 +1,7 @@
 Radiosity Using Hemicubes: A Rasterization Approach
 ===================================================
-Sabin Timalsena
----------------
+#### Sabin Timalsena
+
 
 This project applies global illumination to a scene using Radiosity. The form factor calcuation for the scene is done by hardware-based z-buffered hemi-cube approach.
 
